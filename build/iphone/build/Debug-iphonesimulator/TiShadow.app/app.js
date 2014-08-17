@@ -16,7 +16,7 @@ if (current_app !== "") {
   TiShadow.launchApp(current_app);
 } else {
   var StartScreen = require("/ui/StartScreen").StartScreen;
-  new StartScreen().open();
+  //new StartScreen().open();
 }
 
 var Logger = require("yy.logcatcher");
@@ -33,31 +33,55 @@ require("/lib/ti-mocha");
 
 
 var win = Ti.UI.createWindow({
-	backgroundColor:"#00f",
-	width:Ti.UI.FILL,
-	height:Ti.UI.FILL
-});
-
-var scroll = Ti.UI.createScrollView({
-	backgroundColor:"#ccc",
+	backgroundColor:"#fff",
 	width:Ti.UI.FILL,
 	height:Ti.UI.FILL,
-	contentHeight:auto
+	fullscreen:true
 });
 
-/*for( var i = 0; i < 20; i++ )
+var img = Ti.UI.createImageView({
+	image:"/imgs/duolingo.png",
+	top:-300,
+	width:213,
+	height:300	
+});
+
+win.add(img);
+
+var scroll = Ti.UI.createScrollView({
+	top:0,
+	width:Ti.UI.FILL,
+	height:Ti.UI.FILL,
+	contentHeight:"auto"
+});
+
+
+for( var i = 0; i < 20; i++ )
 {
 	scroll.add( 
 		Ti.UI.createView({
 			width:Ti.UI.FILL,
 			height:50,
+			top:i * 60,
 			bottom:10,
-			backgroundColor:"#000"
+			opacity:0.3,
+			backgroundColor:"#00f"
 		}) 
 	);
-}*/
+}
 
-//win.add(scroll);
+scroll.addEventListener( "scroll", function(e){
+	//Ti.API.info('y: ' + e.y  );
+	Ti.API.info('y: ' + e.y  );
+	var posY = -300 + (e.y * -1);
+	Ti.API.info('yy: ' +  posY);
+	
+	if ( posY < 0 )
+		img.applyProperties({ top:posY });
+	
+});
+
+win.add(scroll);
 
 win.open();
 

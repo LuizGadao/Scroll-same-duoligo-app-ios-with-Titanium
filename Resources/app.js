@@ -55,6 +55,7 @@ var scroll = Ti.UI.createScrollView({
 	contentHeight:"auto"
 });
 
+
 for( var i = 0; i < 20; i++ )
 {
 	scroll.add( 
@@ -64,7 +65,7 @@ for( var i = 0; i < 20; i++ )
 			top:i * 60,
 			bottom:10,
 			opacity:0.3,
-			backgroundColor:"#0f0"
+			backgroundColor:"#00f"
 		}) 
 	);
 }
@@ -72,11 +73,13 @@ for( var i = 0; i < 20; i++ )
 scroll.addEventListener( "scroll", function(e){
 	//Ti.API.info('y: ' + e.y  );
 	Ti.API.info('y: ' + e.y  );
-	var y = -300 + (e.y * -1);
-	Ti.API.info('yy: ' + img.ge );
-	img.applyProperties({ top:y });
+	var posY = -300 + (e.y * -1);
+	Ti.API.info('yy: ' +  posY);
 	
-} );
+	if ( posY < 0 )
+		img.applyProperties({ top:posY });
+	
+});
 
 win.add(scroll);
 
