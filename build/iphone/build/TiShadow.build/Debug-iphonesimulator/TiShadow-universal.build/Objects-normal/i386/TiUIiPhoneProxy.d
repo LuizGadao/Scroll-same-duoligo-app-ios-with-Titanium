@@ -1,0 +1,66 @@
+dependencies: \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/Classes/TiUIiPhoneProxy.m \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/Classes/TiUIiPhoneProxy.h \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/Classes/TiProxy.h \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/Classes/TiBase.h \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/Classes/TiThreading.h \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/Classes/TiPublicAPI.h \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/Classes/TiEvaluator.h \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/Classes/KrollContext.h \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/headers/TiCore/TiCore.h \
+  headers/TiCore/Ti.h headers/TiCore/TiBase.h \
+  headers/TiCore/TiContextRef.h headers/TiCore/TiObjectRef.h \
+  headers/TiCore/TiValueRef.h headers/TiCore/WebKitAvailability.h \
+  headers/TiCore/TiStringRef.h headers/TiCore/TiStringRefCF.h \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/headers/TiCore/TiContextRefPrivate.h \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/Classes/KrollCallback.h \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/Classes/KrollObject.h \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/Classes/TiBindingRunLoop.h \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/Classes/TiUtils.h \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/Classes/TiDimension.h \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/Classes/TiColor.h \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/Classes/WebFont.h \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/Classes/TiFile.h \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/Classes/TiBuffer.h \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/Classes/TiBlob.h \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/Classes/TiApp.h \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/Classes/TiHost.h \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/Classes/Bridge.h \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/Classes/TiStylesheet.h \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/Classes/KrollBridge.h \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/Classes/TiModule.h \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/Classes/XHRBridge.h \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/Classes/TiRootViewController.h \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/Classes/TiControllerProtocols.h \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/Classes/TiViewProxy.h \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/Classes/TiUIView.h \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/Classes/TiAnimation.h \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/Classes/TiPoint.h \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/Classes/ListenerEntry.h \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/Classes/LayoutConstraint.h \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/Classes/TiGradient.h \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/Classes/TiRect.h \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/Classes/TiViewTemplate.h \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/Classes/TiUIiPhoneAnimationStyleProxy.h \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/Classes/TiUIiPhoneStatusBarProxy.h \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/Classes/TiUIiPhoneRowAnimationStyleProxy.h \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/Classes/TiUIiPhoneSystemButtonStyleProxy.h \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/Classes/TiUIiPhoneSystemButtonProxy.h \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/Classes/TiUIiPhoneProgressBarStyleProxy.h \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/Classes/TiUIiPhoneActivityIndicatorStyleProxy.h \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/Classes/TiUIiPhoneSystemIconProxy.h \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/Classes/TiUIiPhoneScrollIndicatorStyleProxy.h \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/Classes/TiUIiPhoneTableViewStyleProxy.h \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/Classes/TiUIiPhoneTableViewSeparatorStyleProxy.h \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/Classes/TiUIiPhoneTableViewScrollPositionProxy.h \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/Classes/TiUIiPhoneTableViewCellSelectionStyleProxy.h \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/Classes/TiUIiPadProxy.h \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/Classes/TiUIiPadPopoverProxy.h \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/Classes/TiViewController.h \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/Classes/TiUIiPadSplitWindowProxy.h \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/Classes/TiWindowProxy.h \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/Classes/TiTab.h \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/Classes/TiTabGroup.h \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/Classes/TiUIiOSTransitionAnimationProxy.h \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/Classes/TiUIiOSDocumentViewerProxy.h \
+  /Users/luizcarlos/Documents/Titanium_Studio_Workspace/scroll_duoliguo/build/iphone/Classes/TiUIiPhoneAlertDialogStyleProxy.h

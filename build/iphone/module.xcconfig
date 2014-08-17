@@ -1,0 +1,5 @@
+// this is a generated file - DO NOT EDIT
+
+NET_IAMYELLOW_TIWS_OTHER_LDFLAGS=$(inherited) -framework Security -framework CFNetwork
+YY_TIDYNAMICFONT_OTHER_LDFLAGS=$(inherited) -framework CoreText
+OTHER_LDFLAGS=$(inherited) $(NET_IAMYELLOW_TIWS_OTHER_LDFLAGS) $(YY_TIDYNAMICFONT_OTHER_LDFLAGS) 

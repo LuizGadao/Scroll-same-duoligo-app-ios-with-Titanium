@@ -1,0 +1,23 @@
+{
+	"target": "simulator",
+	"deployType": "development",
+	"deviceFamily": "universal",
+	"iosSdkPath": "/Users/luizcarlos/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone",
+	"tiCoreHash": "77157e1ffaec640cf559356a147b6a4c",
+	"modulesHash": "1d8193d463b76b2f11eb6dbfce31a35c",
+	"modulesNativeHash": "0067f534296389a72f5426bb0fd5374c",
+	"gitHash": "b958a70",
+	"name": "TiShadow",
+	"id": "com.luizgadao.scrollduoliguo",
+	"analytics": false,
+	"publisher": "YY Digital Pty Ltd",
+	"url": "http://www.yydigital.com",
+	"version": "1.0",
+	"description": "not specified",
+	"copyright": "2012-2014 by YY Digital Pty Ltd",
+	"guid": "bf196247-2791-41ac-b07d-88729aa557cd",
+	"skipJSMinification": true,
+	"forceCopy": false,
+	"forceCopyAll": false,
+	"encryptJS": false
+}
